@@ -18,11 +18,3 @@ It is kind of replica of `Heroku` in almost all the ways, they have even easy to
 * give a name to your service, this will be a part of your public url
 * check the settings, specially `run` command
 
-# About me
-
-I am `Raj Kapadia`, I am passionate about `AI/ML/DL` and their use in different domains, I also love to build `chatbots` using `Google Dialogflow ES/CX`, I have backend development experience with Python[Flask], and NodeJS[Express] For any work, you can reach out to me at...
-
-* [LinkedIn](https://www.linkedin.com/in/rajkkapadia/)
-* [Fiverr](https://www.fiverr.com/rajkkapadia​)
-* [Upwork](https://www.upwork.com/freelancers/~0176aeacfcff7f1fc2)
-* [Youtube](https://www.youtube.com/channel/UCOT01XvBSj12xQsANtTeAcQ)
